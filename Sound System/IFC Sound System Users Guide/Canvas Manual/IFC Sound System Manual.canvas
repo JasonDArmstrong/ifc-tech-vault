@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e3b86f649b7c75c2","type":"group","x":-740,"y":-800,"width":420,"height":160,"label":"GLXD4"},
+		{"id":"ac38e0e8318089e9","type":"text","text":"SLXD4 Receiver","x":-480,"y":-710,"width":120,"height":60},
+		{"id":"4a0090dc1277326b","type":"text","text":"[[Shure UL4 Lavalier]]","x":-1600,"y":-680,"width":410,"height":50},
+		{"id":"90e0f36098a0a11e","type":"text","text":"Body Pack","x":-720,"y":-710,"width":120,"height":60},
+		{"id":"8a4284fb6de68a6f","type":"text","text":"Lavalier ","x":-1020,"y":-600,"width":220,"height":60},
+		{"id":"cdcf2b3a35326b02","type":"text","text":"Input","x":-670,"y":-480,"width":250,"height":60},
+		{"id":"2be9894366e28812","type":"text","text":"","x":-670,"y":-380,"width":250,"height":60},
+		{"id":"4e7927d75478825b","type":"file","file":"Sound System/IFC Sound System Users Guide/Canvas Manual/Shure UL4 Lavalier.md","x":-1460,"y":-1100,"width":270,"height":90},
+		{"id":"0261de83973a92dc","type":"text","text":"Shure UL4 Lavalier","x":-1360,"y":-380,"width":250,"height":70}
+	],
+	"edges":[
+		{"id":"be440b66938546de","fromNode":"90e0f36098a0a11e","fromSide":"right","toNode":"ac38e0e8318089e9","toSide":"left"},
+		{"id":"29804aef65ca4b6a","fromNode":"8a4284fb6de68a6f","fromSide":"right","toNode":"90e0f36098a0a11e","toSide":"left"}
+	]
+}

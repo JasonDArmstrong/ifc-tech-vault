@@ -1,0 +1,48 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "configuration": 28,
+    "equipment": 23,
+    "excalidraw": 4,
+    "gear": 26,
+    "issue": 29,
+    "log": 30,
+    "platform": 31,
+    "procedure": 32,
+    "project": 33,
+    "reference": 27,
+    "service": 34,
+    "shure": 25,
+    "software": 35,
+    "sunday-report": 36,
+    "sundayservice": 5,
+    "training": 37,
+    "withhash": 16,
+    "equipment/new": 1,
+    "gear/cameras": 1,
+    "gear/computers": 2,
+    "gear/console": 3,
+    "gear/microphone": 4,
+    "gear/wireless": 5,
+    "platform/facebook": 1,
+    "platform/sermonaudio": 2,
+    "platform/youtube": 3,
+    "service/am": 1,
+    "service/pm": 2,
+    "shure/ul4": 1,
+    "software/audacity": 1,
+    "software/davinci": 2,
+    "software/obs": 3
+  },
+  "tagColors": {},
+  "_version": 4
+}

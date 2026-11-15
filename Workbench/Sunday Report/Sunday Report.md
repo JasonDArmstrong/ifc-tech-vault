@@ -1,0 +1,3 @@
+---
+tags: [sunday-report, log]
+---

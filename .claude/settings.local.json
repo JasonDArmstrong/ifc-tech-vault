@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Remove-Item -Path \"c:\\\\Obsidian\\\\IFC\\\\Sound System\\\\IFC Sound System Users Guide\\\\Yamaha MX400\" -Recurse -Force -Confirm:$false)"
+    ]
+  }
+}
